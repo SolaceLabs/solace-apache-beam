@@ -30,7 +30,7 @@
 	<description>Samples for the Apache Beam I/O Component for Solace PubSub+</description>
 
 	<properties>
-		<beam.version>2.31.0</beam.version>
+		<beam.version>2.32.0</beam.version>
 		<solace-beam.version>1.2.0-SNAPSHOT</solace-beam.version>
 		<log4j.version>2.14.1</log4j.version>
 
