@@ -30,7 +30,7 @@
   <properties>
     <repoName>SolaceProducts</repoName>
 
-    <beam.version>2.35.0</beam.version>
+    <beam.version>2.55.0</beam.version>
     <jcsmp.version>10.13.0</jcsmp.version>
     <slf4j.version>1.7.25</slf4j.version>
     <pmd.version>6.37.0</pmd.version>
